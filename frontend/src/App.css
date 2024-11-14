@@ -173,11 +173,11 @@ nav {
 .dropdown-hover:hover .dropdown-menu {
   display: block;
 }
-.dropdown-toggle-icon-adjust::after {
+/* .dropdown-toggle-icon-adjust::after { */
   /* position: relative; Adjust the value as needed */
   /* right: 2rem; */
   /* padding-right: 1rem; */
-}
+/* } */
 
 .dropdown-submenu > .dropdown-menu {
   top: 0;
